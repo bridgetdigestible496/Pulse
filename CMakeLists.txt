@@ -22,6 +22,15 @@ qt_add_qml_module(appPulse
     URI Pulse
     QML_FILES
         qml/Main.qml
+        SOURCES core/HotkeyManager.h
+        SOURCES core/HotkeyManager.cpp
+        SOURCES core/AppEntry.h
+        SOURCES core/AppModel.h
+        SOURCES core/AppModel.cpp
+        SOURCES core/AppScanner.h
+        SOURCES core/AppScanner.cpp
+        SOURCES core/AppIconProvider.h
+        SOURCES core/AppIconProvider.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

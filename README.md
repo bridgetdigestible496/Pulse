@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.jpg" width="100%">
+<img src="docs/assets/banner.png" width="100%">
 
 <h1>Pulse</h1>
 

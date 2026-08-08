@@ -1,11 +1,18 @@
-<div align="center"><img src="docs/assets/banner.png" width="100%"><h1>Pulse</h1>""Version" (https://img.shields.io/badge/Version-0.1-blue.svg)" (#)
-""Platform" (https://img.shields.io/badge/Platform-Windows-0078D6.svg)" (#)
-""Qt" (https://img.shields.io/badge/Qt-6.11-41CD52.svg)" (#)
-""License" (https://img.shields.io/badge/License-MIT-yellow.svg)" (#license)
+<div align="center">
 
-A fast and lightweight application launcher for Windows
+<img src="docs/assets/banner.jpg" width="100%">
 
-</div>Overview
+<h1>Pulse</h1>
+
+[![Version](https://img.shields.io/badge/Version-0.1-blue.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](#)
+[![Qt](https://img.shields.io/badge/Qt-6.11.1-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
+
+**A lightweight application launcher for Windows**
+
+</div>
+Overview
 
 Pulse is a lightweight application launcher for Windows.
 

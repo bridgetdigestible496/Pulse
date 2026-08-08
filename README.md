@@ -41,7 +41,8 @@ Pulse searches the applications available on the system and displays the closest
 
 Select the result and launch it directly.
 
-«Note: Application discovery in v0.1 currently uses Windows Start Menu shortcuts. This is a temporary implementation and will be improved in future releases.»
+> [!Note]
+> Application discovery in v0.1 currently uses Windows Start Menu shortcuts. This is a temporary implementation and will be improved in future releases.
 
 ---
 
@@ -120,4 +121,4 @@ License
 
 This project is licensed under the MIT License.
 
-See the "LICENSE" (LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.

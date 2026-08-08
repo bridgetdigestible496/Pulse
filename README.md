@@ -35,7 +35,7 @@ Features
 
 How it works
 
-Press the global hotkey to open Pulse and start typing the name of an application.
+Press the global hotkey (Alt + Space) to open Pulse and start typing the name of an application.
 
 Pulse searches the applications available on the system and displays the closest match.
 

@@ -2,7 +2,7 @@
 
 <img src="docs/assets/banner.png" width="100%">
 
-<h1>Pulse</h1>
+<h1> Pulse </h1>
 
 [![Version](https://img.shields.io/badge/Version-0.1-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](#)
@@ -12,7 +12,7 @@
 **A lightweight application launcher for Windows**
 
 </div>
-Overview
+<h2> Overview </h2>
 
 Pulse is a lightweight application launcher for Windows.
 
@@ -22,7 +22,7 @@ The project is focused on being fast, minimal, and unobtrusive.
 
 ---
 
-Features
+<h2> Features </h2>
 
 - Fast application search — quickly find applications by name.
 - Instant launching — launch the selected application directly from Pulse.
@@ -33,7 +33,7 @@ Features
 
 ---
 
-How it works
+<h2> How it works </h2>
 
 Press the global hotkey (Alt + Space) to open Pulse and start typing the name of an application.
 
@@ -46,9 +46,9 @@ Select the result and launch it directly.
 
 ---
 
-Roadmap
+<h2> Roadmap </h2>
 
-0.1
+**0.1**
 
 - [x] Application launcher
 - [x] Application search
@@ -56,18 +56,18 @@ Roadmap
 - [x] Global hotkey
 - [x] Basic Windows integration
 
-0.2
+**0.2**
 
 - [ ] Improved application discovery
 - [ ] Better search and matching
 - [ ] Improved icon detection
 
-0.3
+**0.3**
 
 - [ ] Website launching
 - [ ] Calculator directly from the search bar
 
-1.0
+**1.0**
 
 - [ ] Custom application aliases
 - [ ] User-defined shortcuts
@@ -75,15 +75,16 @@ Roadmap
 
 ---
 
-Installation
+<h2> Installation </h2>
 
 Download the latest release and run Pulse-Setup.exe.
 
-Pulse is currently intended for Windows.
+> [!IMPORTANT]
+> Pulse is currently intended for Windows.
 
 ---
 
-Building
+<h2> Building </h2>
 
 Pulse is written in C++ using Qt 6 and built with CMake.
 
@@ -96,15 +97,20 @@ Requirements:
 
 Build the project with:
 
+```
 mkdir build
 cd build
-
+```
+```
 cmake ..
 cmake --build .
-
+```
 ---
 
-Usage
+<h2> Usage </h2>
+
+> [!WARNING]
+> The program currently doesn't have a welcome screen. After launching, use the **Alt + Space** key combination to display the panel.
 
 1. Launch Pulse.
 2. Use the global hotkey to open the launcher.
@@ -113,11 +119,11 @@ Usage
 
 That's it.
 
-«Pulse is designed to stay out of your way.»
+*«Pulse is designed to stay out of your way.»*
 
 ---
 
-License
+<h2> License </h2>
 
 This project is licensed under the MIT License.
 

